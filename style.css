@@ -1,8 +1,17 @@
+#nav {
+  position: fixed;
+  height: 70px;
+  background-color:grey;
+  width: 100%;
+
+
+}
 
 #nav li {
   display:inline;
-}
+  text-align: center;
 
+}
 #page1 {
   height:1000px;
   background-color:green;
