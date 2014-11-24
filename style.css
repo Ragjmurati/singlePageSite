@@ -1,0 +1,19 @@
+
+#nav li {
+  display:inline;
+}
+
+#page1 {
+  height:1000px;
+  background-color:green;
+}
+
+#page2 {
+  height:1000px;
+  background-color:blue;
+}
+
+#page3 {
+  height:1000px;
+  background-color:red;
+}
