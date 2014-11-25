@@ -1,28 +1,55 @@
 #nav {
-  position: fixed;
   height: 70px;
-  background-color:grey;
+  background-color:#313B40;
   width: 100%;
+  position:fixed;
 
 
 }
 
 #nav li {
   display:inline;
-  text-align: center;
+  padding-left:15px;
 
 }
+
+#nav a {
+  color:white;
+  font-family:verdana;
+  font-weight:bold;
+  text-decoration:none;
+  text-transform:uppercase;
+}
+
+#nav a:hover{
+  color:purple;
+}
+
+
 #page1 {
   height:1000px;
-  background-color:green;
+  background-color:#5192B5;
+  font-family: 'Comfortaa', cursive;
+  color:white;
+  text-align:center;
+  padding-top:300px;
 }
 
 #page2 {
   height:1000px;
-  background-color:blue;
+  background-color:#8AA7B7;
+  font-family: 'Comfortaa', cursive;
+  color:white;
+  text-align:center;
+  padding-top:300px;
 }
 
 #page3 {
   height:1000px;
-  background-color:red;
+  background-color:#4F7589;
+  font-family: 'Comfortaa', cursive;
+  color:white;
+  text-align:center;
+  padding-top:300px;
+
 }
