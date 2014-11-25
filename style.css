@@ -15,14 +15,14 @@
 
 #nav a {
   color:white;
-  font-family:verdana;
+  font-family:'Comfortaa', cursive;
   font-weight:bold;
   text-decoration:none;
   text-transform:uppercase;
 }
 
 #nav a:hover{
-  color:purple;
+  color:#4F7589;
 }
 
 
