@@ -9,13 +9,13 @@
 
 #nav li {
   display:inline;
-  padding:10px 10px 10px 10px;
+  padding:15px 15px 15px 15px;
 
 }
 
 #nav a {
   color:white;
-  font-family:'Comfortaa', cursive;
+  font-family:'Open Sans', sans-serif;
   font-weight:bold;
   text-decoration:none;
   text-transform:uppercase;
@@ -41,8 +41,9 @@
 }
 #page1 {
   height:500px;
+  width:100%;
   background-color:#5192B5;
-  font-family: 'Comfortaa', cursive;
+  font-family:'Open Sans', sans-serif;
   color:white;
   text-align:center;
   padding-top:150px;
@@ -50,8 +51,9 @@
 
 #page2 {
   height:500px;
+  width:100%;
   background-color:#8AA7B7;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Open Sans', sans-serif;
   color:white;
   text-align:center;
   padding-top:150px;
@@ -59,8 +61,9 @@
 
 #page3 {
   height:500px;
+  width:100%;
   background-color:#4F7589;
-  font-family: 'Comfortaa', cursive;
+  font-family:'Open Sans', sans-serif;
   color:white;
   text-align:center;
   padding-top:150px;
