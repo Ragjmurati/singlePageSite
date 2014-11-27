@@ -9,7 +9,7 @@
 
 #nav li {
   display:inline;
-  padding:15px 15px 15px 15px;
+  padding:10px 10px 10px 10px;
 
 }
 
@@ -45,7 +45,7 @@
   font-family: 'Comfortaa', cursive;
   color:white;
   text-align:center;
-  padding-top:300px;
+  padding-top:150px;
 }
 
 #page2 {
@@ -54,7 +54,7 @@
   font-family: 'Comfortaa', cursive;
   color:white;
   text-align:center;
-  padding-top:300px;
+  padding-top:150px;
 }
 
 #page3 {
@@ -63,6 +63,6 @@
   font-family: 'Comfortaa', cursive;
   color:white;
   text-align:center;
-  padding-top:300px;
+  padding-top:150px;
 
 }
